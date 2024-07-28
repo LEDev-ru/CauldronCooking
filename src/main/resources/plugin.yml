@@ -1,0 +1,4 @@
+name: CauldronCooking
+version: '${project.version}'
+main: ru.ledev.cauldroncooking.CauldronCooking
+api-version: '1.21'
